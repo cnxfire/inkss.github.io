@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>枋柚梓的猫会发光</title>
+  <icon>https://gravatar.loli.net/avatar/3ce1e6c77b4910f1871106cb30dc62b0</icon>
+  <subtitle>猫和它的小小窝</subtitle>
+  <link href="https://inkss.cn/atom.xml" rel="self"/>
+  
+  <link href="https://inkss.cn/"/>
+  <updated>2021-07-13T13:53:00.000Z</updated>
+  <id>https://inkss.cn/</id>
+  
+  <author>
+    <name>枋柚梓</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>城市天际线基础 MOD</title>
+    <link href="https://inkss.cn/blog/728c42d9/"/>
+    <id>https://inkss.cn/blog/728c42d9/</id>
+    <published>2021-07-13T13:53:00.000Z</published>
+    <updated>2021-07-13T13:53:00.000Z</updated>
+    
+    
+    <summary type="html">城市天际线是我最喜欢的一款游戏，也有可能是我唯一一个连续不断购买 DLC 的游戏了，哈哈，万恶的 P 社。有那么一个说法，“枪毙P社玩家，没有一个是冤枉的？”，此外还有另外一句后续，千万别漏掉天际线玩家。</summary>
+    
+    
+    
+    <category term="游戏" scheme="https://inkss.cn/navigation/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="Steam" scheme="https://inkss.cn/tags/Steam/"/>
+    
+    <category term="Cities: Skylines" scheme="https://inkss.cn/tags/Cities-Skylines/"/>
+    
+    <category term="创意工坊" scheme="https://inkss.cn/tags/%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>泛域名解析配置：从 Nginx 到 CDN</title>
+    <link href="https://inkss.cn/blog/e7617c8b/"/>
+    <id>https://inkss.cn/blog/e7617c8b/</id>
+    <published>2021-06-29T18:53:00.000Z</published>
+    <updated>2021-07-20T22:28:00.000Z</updated>
+    
+    
+    <summary type="html">本文共包含以下内容：Nginx 泛域名解析、根据 subdomain 匹配反代地址、防止恶意泛域名解析、BasicAuth 的认证校验、宝塔面板的反代访问、泛域名 SSL 证书申请、泛域名 CDN 分发和泛域名证书的自部署。</summary>
+    
+    
+    
+    <category term="教程" scheme="https://inkss.cn/navigation/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Nginx" scheme="https://inkss.cn/tags/Nginx/"/>
+    
+    <category term="CDN" scheme="https://inkss.cn/tags/CDN/"/>
+    
+    <category term="泛域名" scheme="https://inkss.cn/tags/%E6%B3%9B%E5%9F%9F%E5%90%8D/"/>
+    
+    <category term="宝塔" scheme="https://inkss.cn/tags/%E5%AE%9D%E5%A1%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小站搬家记</title>
+    <link href="https://inkss.cn/blog/56dd46d6/"/>
+    <id>https://inkss.cn/blog/56dd46d6/</id>
+    <published>2021-06-18T01:25:00.000Z</published>
+    <updated>2021-06-20T18:00:00.000Z</updated>
+    
+    
+    <summary type="html">从阿里云迁到腾讯云了，从服务器迁到轻量服务器了，从辽备迁到皖备了。</summary>
+    
+    
+    
+    <category term="博客" scheme="https://inkss.cn/navigation/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="网站" scheme="https://inkss.cn/tags/%E7%BD%91%E7%AB%99/"/>
+    
+    <category term="Linux" scheme="https://inkss.cn/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微信小程序之论订阅消息的坑</title>
+    <link href="https://inkss.cn/blog/5e967ba/"/>
+    <id>https://inkss.cn/blog/5e967ba/</id>
+    <published>2021-05-05T23:09:56.000Z</published>
+    <updated>2021-06-18T01:09:00.000Z</updated>
+    
+    
+    <summary type="html">本文记录了在使用订阅消息时所踩的坑，主要基于一次性订阅消息展开，涉及用户订阅状态判断，通知权限处理等。</summary>
+    
+    
+    
+    <category term="小程序" scheme="https://inkss.cn/navigation/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+    <category term="微信小程序" scheme="https://inkss.cn/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    <category term="订阅消息" scheme="https://inkss.cn/tags/%E8%AE%A2%E9%98%85%E6%B6%88%E6%81%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微信小程序之小程序码的生成</title>
+    <link href="https://inkss.cn/blog/41af8542/"/>
+    <id>https://inkss.cn/blog/41af8542/</id>
+    <published>2021-03-21T00:00:00.000Z</published>
+    <updated>2021-04-16T09:14:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文着重点：小程序码的获取与使用，另由于小程序后端能力统统由原项目提供，是无法使用腾讯的本身的云开发的，此处采用服务端 API 的方式调用 &lt;svg class=&quot;iconfont emoji&quot; aria-hidden=&quot;true&quot;&gt;&lt;use xlink:href=&quot;#icon-feiwen&quot;&gt;&lt;/use&gt;&lt;/svg&gt;。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="小程序" scheme="https://inkss.cn/navigation/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+    <category term="微信小程序" scheme="https://inkss.cn/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    <category term="小程序码" scheme="https://inkss.cn/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端页面的自定义右键与剪切板操作实现</title>
+    <link href="https://inkss.cn/blog/63296e49/"/>
+    <id>https://inkss.cn/blog/63296e49/</id>
+    <published>2021-03-01T00:00:00.000Z</published>
+    <updated>2021-03-03T00:00:00.000Z</updated>
+    
+    
+    <summary type="html">本文分为两部分：自定义右键和剪切板的事件处理。主要目标是在自定义网页右键的基础上，实现诸如复制、粘贴的剪切板操作，文本选中的复制、图片的复制和输入框下的粘贴。</summary>
+    
+    
+    
+    <category term="前端" scheme="https://inkss.cn/navigation/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="Clipboard" scheme="https://inkss.cn/tags/Clipboard/"/>
+    
+    <category term="Permissions-API" scheme="https://inkss.cn/tags/Permissions-API/"/>
+    
+    <category term="JS" scheme="https://inkss.cn/tags/JS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一次对标签页与路由联动的处理方案</title>
+    <link href="https://inkss.cn/blog/dfbd179/"/>
+    <id>https://inkss.cn/blog/dfbd179/</id>
+    <published>2021-02-04T17:46:00.000Z</published>
+    <updated>2021-02-05T18:10:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;最近处理了一个标签页与父子页面联动的问题，在开发一个后台管理项目时，前端框架是在另一个项目的基础上改进使用的，原有项目的业务整体比较简单，通过不同导航页进入不同的标签页后，查询显示结果即可。而在新项目中，还需要处理另一种业务情况：从父页面进入子页面时的标签页处理，例如查询列表页跳转进详情页/编辑页。此时才发现这个框架的坑，而偏偏还已经开发了一段时间，换框架是没得可能只能硬着头皮改造。&lt;/p&gt;
+&lt;p&gt;这里的主要问题是：标签页是与路由绑定的，在进入子页面时是需要打开新的标签页？子页面的返回行为又该如何处理。在各种讨论妥协后，最终选择方案就是：&lt;strong&gt;子页面打开时新建标签页且相同组件只能创建一个，父页面关闭时连带着子页面一起关闭。&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="前端" scheme="https://inkss.cn/navigation/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="Angular" scheme="https://inkss.cn/tags/Angular/"/>
+    
+    <category term="NG-ZORRO" scheme="https://inkss.cn/tags/NG-ZORRO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker 的简要使用</title>
+    <link href="https://inkss.cn/blog/e9bd7c2d/"/>
+    <id>https://inkss.cn/blog/e9bd7c2d/</id>
+    <published>2021-01-29T16:00:00.000Z</published>
+    <updated>2021-02-01T12:00:00.000Z</updated>
+    
+    
+    <summary type="html">Docker 的简要使用与 code-service 的安装 🎉。</summary>
+    
+    
+    
+    <category term="资料" scheme="https://inkss.cn/navigation/categories/%E8%B5%84%E6%96%99/"/>
+    
+    
+    <category term="Portaine" scheme="https://inkss.cn/tags/Portaine/"/>
+    
+    <category term="Code-server" scheme="https://inkss.cn/tags/Code-server/"/>
+    
+    <category term="Docker" scheme="https://inkss.cn/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ant Design of Angular 快速上手系列</title>
+    <link href="https://inkss.cn/blog/8ab78feb/"/>
+    <id>https://inkss.cn/blog/8ab78feb/</id>
+    <published>2020-11-21T17:10:00.000Z</published>
+    <updated>2020-12-30T10:40:00.000Z</updated>
+    
+    
+    <summary type="html">一句话概括那就是：这是一份后端开发所写的前端学习内容~，面向于快速上手这种哒。</summary>
+    
+    
+    
+    <category term="前端" scheme="https://inkss.cn/navigation/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="Angular" scheme="https://inkss.cn/tags/Angular/"/>
+    
+    <category term="NG-ZORRO" scheme="https://inkss.cn/tags/NG-ZORRO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6 快速入坑</title>
+    <link href="https://inkss.cn/blog/ff35080b/"/>
+    <id>https://inkss.cn/blog/ff35080b/</id>
+    <published>2020-09-06T12:10:00.000Z</published>
+    <updated>2020-09-06T12:10:00.000Z</updated>
+    
+    
+    <summary type="html">ES6 快速入门，从三个角度展开：Const, 箭头函数, 解构赋值。</summary>
+    
+    
+    
+    <category term="前端" scheme="https://inkss.cn/navigation/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="ES6" scheme="https://inkss.cn/tags/ES6/"/>
+    
+    <category term="Const" scheme="https://inkss.cn/tags/Const/"/>
+    
+    <category term="Arrow Function" scheme="https://inkss.cn/tags/Arrow-Function/"/>
+    
+    <category term="Desctructuring" scheme="https://inkss.cn/tags/Desctructuring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AdGuard | 保护隐私 | 拦截广告 | DOH 支持</title>
+    <link href="https://inkss.cn/blog/c949262/"/>
+    <id>https://inkss.cn/blog/c949262/</id>
+    <published>2020-08-23T17:36:00.000Z</published>
+    <updated>2020-08-24T12:01:00.000Z</updated>
+    
+    
+    <summary type="html">从 Http 到 Https ，从 DNS 到 SDNS ，人们在追究安全的脚步上从未停歇。</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://inkss.cn/navigation/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="隐私" scheme="https://inkss.cn/tags/%E9%9A%90%E7%A7%81/"/>
+    
+    <category term="Adguard" scheme="https://inkss.cn/tags/Adguard/"/>
+    
+    <category term="DNS" scheme="https://inkss.cn/tags/DNS/"/>
+    
+    <category term="DOH" scheme="https://inkss.cn/tags/DOH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Don&#39;t Starve Together</title>
+    <link href="https://inkss.cn/blog/8fafff0e/"/>
+    <id>https://inkss.cn/blog/8fafff0e/</id>
+    <published>2020-07-17T13:58:00.000Z</published>
+    <updated>2020-07-18T16:45:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;note alien-monster cyan&quot;&gt;&lt;p&gt;预告：饥荒联机版即将上线啦，欢迎各位围观，吼吼吼~&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;note bell red&quot;&gt;&lt;p&gt;本文章分为两部分，一部分备份记录 DST 的搭建，另一部分记录游戏订阅信息~&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;note poo gray&quot;&gt;&lt;p&gt;服务器订阅至 2022/11 月，可放心食用且性能尚可，不用像当初那样抠抠搜搜的使用啦~&lt;/p&gt;&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="游戏" scheme="https://inkss.cn/navigation/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="Steam" scheme="https://inkss.cn/tags/Steam/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一次Ubuntu20.04LTS安装体验</title>
+    <link href="https://inkss.cn/blog/481358a6/"/>
+    <id>https://inkss.cn/blog/481358a6/</id>
+    <published>2020-06-07T22:19:00.000Z</published>
+    <updated>2020-06-07T22:19:00.000Z</updated>
+    
+    
+    <summary type="html">总的来说，整个的过程是非常优秀的，可以明显的感受到的进步，一些非常实用的功能也被整合进系统了，比如默认安装的英伟达显卡驱动。当然或许是因为刚发布的缘故，一些软件源还没有适配，需要稍作等待~</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://inkss.cn/navigation/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="Linux" scheme="https://inkss.cn/tags/Linux/"/>
+    
+    <category term="Ubuntu" scheme="https://inkss.cn/tags/Ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Volantis 主题部署 Pjax</title>
+    <link href="https://inkss.cn/blog/76993423/"/>
+    <id>https://inkss.cn/blog/76993423/</id>
+    <published>2020-05-17T01:27:00.000Z</published>
+    <updated>2020-06-02T14:18:00.000Z</updated>
+    
+    
+    <summary type="html">本篇文章记录了我对 Volantis 主题做 Pjax 兼容的种种，大抵算是种记录吧~</summary>
+    
+    
+    
+    <category term="博客" scheme="https://inkss.cn/navigation/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Hexo" scheme="https://inkss.cn/tags/Hexo/"/>
+    
+    <category term="Pjax" scheme="https://inkss.cn/tags/Pjax/"/>
+    
+    <category term="Volantis" scheme="https://inkss.cn/tags/Volantis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WSL 之宝塔面板的部署</title>
+    <link href="https://inkss.cn/blog/b2b02edd/"/>
+    <id>https://inkss.cn/blog/b2b02edd/</id>
+    <published>2020-05-02T17:15:00.000Z</published>
+    <updated>2020-05-12T11:27:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;在很早之前，我就有一个需求，需要一个小型灵活的本地服务器，因为目的在于轻便、快捷，所以倘若搭建 Nginx 到本机又有些浪费性能，过于臃肿，毕竟不是服务器。而小型服务器的话如 Tomcat 启动起来还是有些麻烦。我查过使用 PhpStudy 的这类软件，感觉用起来又不是那么顺心如意。此之前，一直使用的是 VS Code 里的插件：&lt;code&gt;Live Server&lt;/code&gt; 完成轻量网页的启动，也算是集编辑、运行、查看于一身了。&lt;/p&gt;
+&lt;p&gt;这是前话，然后下面讲讲 WSL，VS Code 可以通过 Rmote - WSL 链接到本地的 Linux 子系统，我也是一直这样做的，偶尔一些环境搭建起来麻烦的使用子系统做的，我是用的子系统 Ubuntu 18.04 ，倒也是我最熟悉的一个系统了。言归正传，本身我有一台阿里云的 CentOS 服务器，在上面搭建了宝塔面板，于是便突发奇想，能否在本机装上面板呢？这样对与网站需求来说就有了更多的用途。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="资料" scheme="https://inkss.cn/navigation/categories/%E8%B5%84%E6%96%99/"/>
+    
+    
+    <category term="Linux" scheme="https://inkss.cn/tags/Linux/"/>
+    
+    <category term="WSL" scheme="https://inkss.cn/tags/WSL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微信小程序之 Text 组件</title>
+    <link href="https://inkss.cn/blog/d24a2bc6/"/>
+    <id>https://inkss.cn/blog/d24a2bc6/</id>
+    <published>2020-04-03T15:34:00.000Z</published>
+    <updated>2020-04-03T15:34:00.000Z</updated>
+    
+    
+    <summary type="html">调用接口返回的数据前端显示时不能换行，颇为波折的处理一番。</summary>
+    
+    
+    
+    <category term="小程序" scheme="https://inkss.cn/navigation/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+    <category term="微信小程序" scheme="https://inkss.cn/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微信小程序之分页模型</title>
+    <link href="https://inkss.cn/blog/24abf2bd/"/>
+    <id>https://inkss.cn/blog/24abf2bd/</id>
+    <published>2020-04-01T17:38:00.000Z</published>
+    <updated>2020-04-03T15:34:00.000Z</updated>
+    
+    
+    <summary type="html">一个简单的分页模型，可以用在下拉刷新的时候，云云~</summary>
+    
+    
+    
+    <category term="小程序" scheme="https://inkss.cn/navigation/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+    <category term="微信小程序" scheme="https://inkss.cn/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git 打包命令</title>
+    <link href="https://inkss.cn/blog/59d81549/"/>
+    <id>https://inkss.cn/blog/59d81549/</id>
+    <published>2019-12-31T11:27:00.000Z</published>
+    <updated>2020-05-12T11:27:00.000Z</updated>
+    
+    
+    <summary type="html">一些 Git 打包命令，比如打包某次提交之后的所有文件，适合 Powershell 下使用。</summary>
+    
+    
+    
+    <category term="资料" scheme="https://inkss.cn/navigation/categories/%E8%B5%84%E6%96%99/"/>
+    
+    
+    <category term="Git" scheme="https://inkss.cn/tags/Git/"/>
+    
+    <category term="打包" scheme="https://inkss.cn/tags/%E6%89%93%E5%8C%85/"/>
+    
+    <category term="Powershell" scheme="https://inkss.cn/tags/Powershell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 博客部署 Pjax 局部刷新</title>
+    <link href="https://inkss.cn/blog/80b5f235/"/>
+    <id>https://inkss.cn/blog/80b5f235/</id>
+    <published>2019-12-12T23:56:00.000Z</published>
+    <updated>2020-08-05T23:56:00.000Z</updated>
+    
+    
+    <summary type="html">本篇定位于理论知识，概述性简介如何处理 Pjax 与 Hexo 的兼容过程。</summary>
+    
+    
+    
+    <category term="博客" scheme="https://inkss.cn/navigation/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Hexo" scheme="https://inkss.cn/tags/Hexo/"/>
+    
+    <category term="Pjax" scheme="https://inkss.cn/tags/Pjax/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>猫之三千岁：网站状态概述</title>
+    <link href="https://inkss.cn/blog/b0e91f3f/"/>
+    <id>https://inkss.cn/blog/b0e91f3f/</id>
+    <published>2019-07-22T11:27:00.000Z</published>
+    <updated>2020-05-12T11:27:00.000Z</updated>
+    
+    
+    <summary type="html">本网站的状态：万物皆有起源，本站的起始则是从 2018年11月 开始。谈及最初建个人网站的经历，大概在大一下的时候就开始了，不过当时选择的并不是 Hexo ，而是使用了很著名的一个博客系统：WordPress ...</summary>
+    
+    
+    
+    <category term="博客" scheme="https://inkss.cn/navigation/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="网站" scheme="https://inkss.cn/tags/%E7%BD%91%E7%AB%99/"/>
+    
+    <category term="Hexo" scheme="https://inkss.cn/tags/Hexo/"/>
+    
+    <category term="Cloud Studio" scheme="https://inkss.cn/tags/Cloud-Studio/"/>
+    
+  </entry>
+  
+</feed>
